@@ -21,5 +21,11 @@ Clean policy impact modeling with random ranges
 Interactive menus with input validation
 Visualized data comparisons (before/after tables)
 
+Sample Output:
+★ Before vs After ★
+| Homes:        |  1,200 →  1,350 (+150)
+| Home Price:   | $450,000 → $382,500
+| Affordability: |     6.5x →     5.5x salary
+
 Tags:
 python urban-simulation policy-game cli-game housing-affordability random-module
