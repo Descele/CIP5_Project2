@@ -1,0 +1,4 @@
+# requirements.txt
+# Base version (no dependencies)
+# Optional for colored output:
+# colorama==0.4.6
