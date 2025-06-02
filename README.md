@@ -29,6 +29,17 @@ Sample Output:
 
 Tags:
 python urban-simulation policy-game cli-game housing-affordability random-module
+
+# File breakdown
+Here's a short explanation of each file/folder in this project:
+
+- README.md[you are here!] : Project documentation (currently contains project description and badges)
+- Project 2:Mayor for a day(Housing Policy) : Likely contains 'main' project files
+- gitignore : File describing what file patterns Git should never track
+- LICENSE : File containing the software license terms
+- requirements1.txt : File listing PyPi packages required for the project
+
+
 ## Code in Place Certification  
 *Stanford CS106A Methodology | 2025*  
 
