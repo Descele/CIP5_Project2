@@ -8,7 +8,7 @@ As an urban planner, I designed solutions that demonstrate Python’s versatilit
 
 Urban Governance Meets Python Game Design
 
-This interactive CLI game—built with only Python’s random and basic I/O—demonstrates how simple code can model complex urban systems. As mayor of "Tinyville," players balance housing policies while seeing real-time impacts on affordability, mirroring the tradeoffs city planners face daily.
+This interactive CLI game—built with only Python’s random and basic I/O—demonstrates how simple code can model complex urban systems. As mayor of "Tinyville," players balance housing policies while seeing real-time impacts on affordability, mirroring the tradeoffs city planners face daily. Simple math reveals real tradeoffs: more homes might not always mean affordability. This project taught me how to turn complex urban economics into an interactive game.
 
 Key Features:
 🏘Policy Sandbox – Choose 2 of 4 housing interventions (transit upgrades, rent control, etc.)
